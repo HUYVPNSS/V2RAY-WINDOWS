@@ -1,2 +1,3 @@
 # V2RAY-WINDOWS
-V2raywindows
+
+[DOWNLOAD](https://vpnjantit.com/download-v2ray-windows)
